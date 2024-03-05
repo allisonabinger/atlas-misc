@@ -61,4 +61,4 @@ done
 # copy the following commands:
 # sudo mv acp.sh /usr/local/bin
 # sudo chmod +x /usr/local/bin/acp.sh
-# sudo ln -s /usr/local/bin/myscript.sh /usr/local/bin/myscript
+# sudo ln -s /usr/local/bin/acp.sh /usr/local/bin/acp
